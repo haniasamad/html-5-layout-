@@ -1,0 +1,83 @@
+.main{
+	background-color:grey;
+	padding:5px;
+	
+}
+.main img{
+	width:40px;
+	height:50px
+
+}
+
+.word{
+	
+	background-color:lightgrey;
+	padding:10px 0px;
+}
+.nav li{
+	display:inline;
+	padding:10px;
+	font-size:20px;
+}
+.see{
+	display:flex;
+	
+}
+.you{
+	color:white;
+}
+.artical h2{
+	font-family:arial;
+}
+.artical h3{
+	font-family:arial;
+	color:red;
+}
+.artical p{
+	font-family:arial;
+	font-size:19px;
+}
+.this{
+	width:650px;
+
+}
+.this h2{
+	font-family:arial;
+}
+.this h3{
+	font-family:arial;
+	color:red;
+}
+.this p{
+	font-family:arial;
+	font-size:19px;
+	}
+.artical{
+	width:650px;
+	
+}
+.artical-image{	
+	display:inline;
+}
+.artical-content{
+	display:inline-block;
+	padding:30px 10px;
+	width:300px;
+}
+.group-image{
+	display:inline;
+}
+.group-content{
+	display:inline-block;
+	padding:10px 10px;
+	width:300px;
+}
+.aside{	
+	color:red;
+	font-family:cursive;
+		
+
+}
+.he{
+	color:black;
+	line-height:20px;		
